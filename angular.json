@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-unit-test-app"
+    }
+  },
+  "defaultProject": "ng-unit-test-app",
+  "cli": {
+    "analytics": false
+  }
 }
